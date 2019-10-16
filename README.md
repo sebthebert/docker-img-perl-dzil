@@ -1,2 +1,3 @@
-# docker-img-perl-dzil
-Docker image with Perl Dist::Zilla for cleaner &amp; faster testing
+# Docker image with Perl Dist::Zilla
+
+Docker image with Perl Dist::Zilla for cleaner & faster testing
